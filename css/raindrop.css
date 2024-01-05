@@ -6,6 +6,9 @@
 h2 {
     font-family: 'Bungee Spice', sans-serif;
 }
+.raindrop-text {
+    font-family: 'Caveat', 'cursive';
+}
 section {
     position: relative;
     width: 100%;
@@ -15,6 +18,9 @@ section {
     display: flex;
     justify-content: center;
     align-items: center;
+}
+section .raindrop-bg {
+    background: radial-gradient(#a3e48f,#adcf50);
 }
 
 section h2 {
