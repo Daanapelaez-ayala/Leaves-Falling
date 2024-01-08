@@ -19,8 +19,8 @@ section {
     justify-content: center;
     align-items: center;
 }
-section .raindrop-bg {
-    background: radial-gradient(#a3e48f,#adcf50);
+.raindrop-bg {
+    background: radial-gradient(#51926f,#d3acd3);
 }
 
 section h2 {

@@ -6,8 +6,8 @@
 h2 {
     font-family: 'Bungee Spice', sans-serif;
 }
-.snowflakes-text {
-    font-family: 'Roboto Slab', serif;
+.beachball-text {
+    font-family: 'Tektur', sans-serif;
 }
 section {
     position: relative;
@@ -18,11 +18,9 @@ section {
     justify-content: center;
     align-items: center;
 }
-.snowflakes-bg {
-
-    background: radial-gradient(#57849e,#8696c4);
+.beachball-bg {
+    background: radial-gradient(#aecc2a,#7ed4c2);
 }
-
 section h2 {
     font-size: 8rem;
 }
